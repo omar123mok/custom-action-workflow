@@ -1,7 +1,7 @@
 name: custom
-on  : push
+on: push
 jobs:
   main:
-    runs-on:ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
       - uses: omar123mok/custom-action@main
