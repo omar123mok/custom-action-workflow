@@ -1,4 +1,4 @@
-# Build Status Badge: ![custom-workflow](https://github.com/omar123mok/custom-action-workflow/workflows/cutsom.yml/badge.svg)
+# Build Status Badge: ![](https://github.com/omar123mok/custom-action-workflow/blob/main/.github/workflows/cutsom.yml/badge.svg)
 
 # Custom-Action-workflow
 
