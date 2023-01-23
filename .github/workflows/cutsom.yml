@@ -5,6 +5,6 @@ on  : push
 jobs:
   main:
     runs-on:ubuntu-latest
-    steps  :
+    steps:
       - name: Running the cutsom-action file
         uses: omar123mok/custom-action@main
