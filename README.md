@@ -1,5 +1,3 @@
-# Build Status Badge: ![](https://github.com/omar123mok/custom-action-workflow/blob/main/.github/workflows/cutsom.yml/badge.svg)
-
 # Custom-Action-workflow
 
 This workflow is a demo of cutsom Action and this uses an Action defined on https://github.com/omar123mok/custom-action/tree/main
